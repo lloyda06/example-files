@@ -1,0 +1,31 @@
+[
+  {
+    "id": "document",
+    "name": "CZML Wall",
+    "version": "1.0"
+  },
+  {
+    "id": "wall",
+    "wall": {
+      "positions": {
+        "cartographicDegrees": [
+          -123.6,
+           47.65,
+          1500,
+          -123.5,
+        47.68,
+         1500
+        ]
+      },
+      "material": {
+        "image": {
+          "image":"https://i.imgur.com/Ozyq4FH.jpeg",
+          "transparent":true,
+          "color": {
+            "rgba": [255, 255, 255, 200]
+          }
+        }
+      }
+    }
+  }
+]
